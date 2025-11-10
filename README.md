@@ -11,21 +11,21 @@ Group Project for TCSS 460 @ UWT
 - **Time:** 3:30 PM - 4:15 PM (45 minutes)
 - **Location:** In-Person
 #### Actions:
-- 
+- Discussed how we wanted to pitch ideas for front end, came up with plan to meet up on friday after reading documentation and adding ideas to idea doc we choose one idea to make figma from.
 
 ### Discussion 2
 - **Date:** Friday, November 7, 2025
 - **Time:** 10:00 AM - 11:30 AM (90 minutes)
 - **Location:** Discord
 #### Actions:
-- 
+- Went through idea doc and since ideas were similar we decided to take similar functions and combine them into our idea and decide later if we want to implement the non similar ideas. Planning out and making figma to represent front end was designated to people.
 
 ### Discussion 3
 - **Date:** Friday, November 9, 2025
 - **Time:** 7:00 PM - 
 - **Location:** Discord
 #### Actions:
-- 
+- followed up on design agreed on what we are going with, recorded our weekly contributions.
 ---
 
 ## Alpha Sprint Contributions
