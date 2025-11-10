@@ -55,6 +55,9 @@ Group Project for TCSS 460 @ UWT
 
 
 ### Bao
+- Looked over the documentation from group 1, 2 and 8
+- Created Discord channels and communicated with other team for the colaboration for the front end
+- Fix one issue related to the Credential API
 
 
 ### Shiraz
@@ -70,6 +73,7 @@ Group Project for TCSS 460 @ UWT
 
 
 **Bao Thinh Diep**
+- Learned new things with React.
 
 
 **Shiannel/Coco**
