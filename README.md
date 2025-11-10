@@ -31,6 +31,8 @@ Group Project for TCSS 460 @ UWT
 ## Alpha Sprint Contributions
 
 ### Patrick
+- Contributed idea for frontend design.
+- Organized specific pages needed for front end design.
 
 ### Linda Miao
 
