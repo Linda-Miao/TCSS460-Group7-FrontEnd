@@ -35,7 +35,9 @@ Group Project for TCSS 460 @ UWT
 - Organized specific pages needed for front end design.
 
 ### Linda Miao
-
+- Read documents from teams 1, 2, and 8.
+- Proposed 2 initial ideas for Figma designs. 
+- Created Figma pages with Shinnel. 
 
 ### Shiannel
 
@@ -51,6 +53,8 @@ Group Project for TCSS 460 @ UWT
 ## Alpha Sprint Comments
 
 **Linda Miao**
+- Learned and reviewed how to read documents from other teams.
+- Learned how to use Figma to build pages.
 
 
 **Bao Thinh Diep**
